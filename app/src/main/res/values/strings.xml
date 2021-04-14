@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">translate</string>
+    <string name="label_subtype_assamese">Assamese &amp; English</string>
+    <string name="label_subtype_bengali">Bengali &amp; English</string>
+    <string name="label_subtype_gujarati">Gujarati &amp; English</string>
+    <string name="label_subtype_hindi">Hindi &amp; Hinglish</string>
+    <string name="label_subtype_indic">English &amp; Indic Languages</string>
+    <string name="label_subtype_kannada">Kannada &amp; English</string>
+    <string name="label_subtype_malayalam">Malayalam &amp; English</string>
+    <string name="label_subtype_marathi">Marathi &amp; English</string>
+    <string name="label_subtype_odia">Odia &amp; English</string>
+    <string name="label_subtype_punjabi">Punjabi &amp; English</string>
+    <string name="label_subtype_tamil">Tamil &amp; English</string>
+    <string name="label_subtype_telugu">Telugu &amp; English</string>
+</resources>
